@@ -1,2 +1,2 @@
 # Project_Euler
-Problem sets from Project Euler
+Math/Programming problem sets from https://projecteuler.net/archives
